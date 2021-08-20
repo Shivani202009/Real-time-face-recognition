@@ -1,0 +1,38 @@
+.heading1{
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+    box-shadow: 10px 10px 15px black;
+
+}
+
+.div1{
+    float: none;
+    background-color:white;
+    color: black;
+    padding: 10px;
+    box-shadow: 5px 5px 15px rgb(42, 214, 56);
+    border-radius: 20px; 
+}
+
+.div2{
+    font-size: 20px;
+}
+
+.footer{
+    background-color: rgb(17, 15, 15);
+    color: white;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    line-height: 2;
+    font-weight: 700px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.background{
+    background-position: center;
+    background-size: cover;
+
+}
